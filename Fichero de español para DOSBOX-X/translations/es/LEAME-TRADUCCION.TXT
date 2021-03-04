@@ -1,0 +1,76 @@
+==============================================================================
+ DOSBox-X en español con soporte multilenguaje por Carlos Romero (04/03/2021)
+==============================================================================
+
+
+Introducción:
+=============
+
+Esta es la versión oficial de DosBox-X 0.83.11 con mi traducción ya instalada
+y preconfigurada.
+
+Es válida para todas las plataformas soportadas del DosBoX-X (incluyendo ARM).
+
+
+Consideraciones varias:
+=======================
+
+Para obtener las versiones más recientes de las traducciones que he realizado
+visita mi página en github:
+
+https://github.com/Dalekamistoso
+
+
+Los ficheros de traducciones de DosBoX-X están tanto en el GIT oficial:
+
+https://github.com/joncampbell123/dosbox-x/tree/master/contrib/translations
+
+
+Como en el mio personal el cual siempre estará más actualizado (el español):
+
+/dosbox-x/blob/master/contrib/translations/es/es_ES.lng
+
+
+Limitaciones / Bugs conocidos:
+==============================
+
+Acentos en SDL1:
+
+Debido a ciertas limitaciones esta versión no soporta los caracteres 
+especiales en los menús por lo que debes usar el archivo de traducción 
+alternativo.
+
+Aunque puedes usar la otra versión general es muy posible que obtengas 
+caracteres extraños en donde deberían estar los acentos.
+
+Comandos:
+
+Los comandos internos no están traducidos, por lo demás está absolutamente
+todo traducido salvo aquello que por alguna razón afectase a la funcionalidad 
+del emulador.
+
+No se traduce el submenú secundario de configuración pues debe estar en inglés
+para el soporte multilenguaje y no romper la compatibilidad con el master.
+
+
+Licencia:
+=========
+
+Todas las modificaciones y así como los añadidos son GPL2 a excepción de lo 
+que se indique especificamente en el software o en la documentación.
+
+
+Agradecimientos especiales:
+===========================
+
+A todo el equipo de DOSBox-X....
+
+Y en especial a Wengier por su paciencia solventando bugs, aceptando todos 
+mis cambios propuestos y peticiones para las nuevas funcionalidades.
+
+Contacto:
+=========
+
+Twitter: https://twitter.com/Dalekamistoso
+Github:  https://github.com/Dalekamistoso
+Youtube: http://youtube.com/c/CarlosRmsx
